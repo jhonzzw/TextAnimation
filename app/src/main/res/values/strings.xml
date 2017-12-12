@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TextAnimation</string>
+    <string name="translate_name">"这是一个会平移的图片"</string>
+</resources>
